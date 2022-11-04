@@ -1,2 +1,2 @@
-# cpu_scheduling
-Simulation of rate-monotonic algorithm for real time systems
+  # Linked_List-Practice
+Read input from a file and stores the data in a linked list
